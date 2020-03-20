@@ -1,0 +1,1 @@
+Componente comune: Antete - antet pe tot ecranul

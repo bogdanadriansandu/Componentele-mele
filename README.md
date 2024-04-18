@@ -1,2 +1,2 @@
-# Componentele-mele
-componente web design (butoane, antete, subsoluri, etc.)
+# My components
+Web design components (buttons, headers, footers, etc.)
